@@ -1,0 +1,98 @@
+header
+{
+    background-color:rgb(94, 207, 245);
+    background-image: url(../img/pattern.png);
+    height: 150px;
+}
+
+#img-logo{
+    height: 70px;
+    margin-top: 73px;
+}
+
+h1{
+    font-size: 52px;
+    margin-bottom: 5px;
+}
+
+#Introduction{
+    font-size: 20px;
+    color: grey;
+}
+
+.writtenby{
+    margin: 3px;
+}
+
+#Img-Des{
+    margin-top: 24px;
+    font-size:12px;
+}
+
+#Text{
+    margin-top:30px;
+    font-size:18px;
+}
+
+span{
+    background-color: rgba(255, 255, 78, 0.986) ;
+}
+
+#list{
+    font-size:18px;
+    margin-top: 30px;
+}
+
+#table{
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    color: white;
+    width:1200px;
+    padding:0px;
+}
+
+#firstrow{
+    background-color: rgb(93, 235, 240);
+}
+
+.colortd{
+    background-color: rgba(123, 226, 226, 0.514);
+}
+
+td{
+    height:60px;
+}
+
+h3{
+    margin-top: 35px;
+    color: grey;
+}
+
+#imgfooter1{
+    margin-top: 4px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat:no-repeat;
+    height:200px;
+    font-size: 25px;
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+#imgfooter2{
+    margin-top: 4px;
+    background-image: url(../img/graph.jpg);
+    background-repeat:no-repeat;
+    height:200px;
+    font-size: 25px;
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+}
