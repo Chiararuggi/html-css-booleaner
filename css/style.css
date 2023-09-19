@@ -5,6 +5,12 @@ header
     height: 150px;
 }
 
+.position{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
 #img-logo{
     height: 70px;
     margin-top: 73px;
